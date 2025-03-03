@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+text-align: center;
+}
+.img{
+text-align: center;
+}
+a{
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+}
+figcaption{
+ text-align: center;
+}
+p{
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.details{
+  display: flex;
+
+}
+div{
+width: 25%;
+}
